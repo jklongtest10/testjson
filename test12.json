@@ -1893,6 +1893,14 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
     }
-
+,
+      {
+      "name": "dfx",
+      "symbol": "dfx",
+      "address": "0xba942ba2d9d3c9f0baa286d1820c766f4d5219df",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    }
   ]
 }
