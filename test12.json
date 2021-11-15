@@ -1902,5 +1902,14 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
     }
+,
+      {
+      "name": "oas",
+      "symbol": "oas",
+      "address": "0x2280f1e7840790f03af19f190e7c276a18683b91",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    }    
   ]
 }
