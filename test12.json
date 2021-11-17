@@ -1910,6 +1910,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    }   
+
+      {
+      "name": "bcg",
+      "symbol": "bcg",
+      "address": "0xc50cdFc762a6B9e861E20de4e0DE49e81a69EfB3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
     }    
   ]
 }
