@@ -1919,6 +1919,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
-    }    
+    }   , 
+
+      {
+      "name": "Pirate boy",
+      "symbol": "Pirate boy",
+      "address": "0x1047104fDD07ED190d534082F3d1032365BD0251",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    }  
   ]
 }
