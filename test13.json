@@ -1,0 +1,32 @@
+{
+  "name": "AAAA",
+  "timestamp": "2023-02-03T09:46:15.958Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 119
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "InLong5",
+      "symbol": "InLong5",
+      "address": "0x2823D64E20225BEaA01BCdb0a72033354d135f79",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    } ,
+          {
+      "name": "nuwa",
+      "symbol": "nuwa",
+      "address": "0x7A6e3Fd7a155Cd923F0c51a1bEeC2ED61B6E864B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+    } 
+  ]
+}
