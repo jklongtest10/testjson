@@ -25,7 +25,7 @@
       "symbol": "nuwa",
       "address": "0x7A6e3Fd7a155Cd923F0c51a1bEeC2ED61B6E864B",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
     } 
   ]
